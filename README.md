@@ -127,7 +127,7 @@ CREATE TABLE investments (
 ## 📡 API Endpoints
 
 ### Projects
-- `GET /api/projects` - Tüm List all projects
+- `GET /api/projects` - List all projects
 - `GET /api/projects/:id` - Get specific project
 
 ### Investments
