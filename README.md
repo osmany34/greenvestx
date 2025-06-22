@@ -196,7 +196,7 @@ The platform includes sample projects like:
 - **Wind Turbine** (Çanakkale)
 - **Water Treatment Plant** (Mersin)
 - **Solar Panel Installation** (İzmir)
-- **Forest Conservation Projec** (Trabzon)
+- **Forest Conservation Project** (Trabzon)
 
 ## 🔒 Security
 
