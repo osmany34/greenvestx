@@ -1,0 +1,33 @@
+{
+  "name": "greenvestx-backend",
+  "version": "1.0.0",
+  "description": "GreenVestX - Yeşil Projeler için Tokenize Yatırım Platformu Backend API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "greenvestx",
+    "blockchain",
+    "stellar",
+    "green-investment",
+    "tokenization"
+  ],
+  "author": "GreenVestX Team",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^13.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.16.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.10"
+  }
+}
